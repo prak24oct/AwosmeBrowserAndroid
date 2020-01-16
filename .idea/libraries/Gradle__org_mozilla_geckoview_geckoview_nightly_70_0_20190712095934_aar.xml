@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mozilla.geckoview:geckoview-nightly:70.0.20190712095934@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5b37c8b0029d5a6ac37fba56acf0417/geckoview-nightly-70.0.20190712095934/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5b37c8b0029d5a6ac37fba56acf0417/geckoview-nightly-70.0.20190712095934/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5b37c8b0029d5a6ac37fba56acf0417/geckoview-nightly-70.0.20190712095934/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mozilla.geckoview/geckoview-nightly/70.0.20190712095934/1e1271f05830b1d49135a8c6aac5011ba20b0a21/geckoview-nightly-70.0.20190712095934-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mozilla.geckoview/geckoview-nightly/70.0.20190712095934/1243afa83396a1279445cfd0e3fc97d7c7e4d58b/geckoview-nightly-70.0.20190712095934-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
